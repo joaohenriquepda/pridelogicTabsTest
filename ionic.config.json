@@ -1,0 +1,7 @@
+{
+  "name": "pridelogicTabsTest",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
